@@ -7,7 +7,7 @@ I'm [Veysel Şahin](https://www.linkedin.com/in/veyselsahn/)
 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: You can send me an email to [veyselsahin308@gmail.com](mailto://veyselsahin308@gmail.com)
-- ⚡ I'm currently learning:
+- ⚡ I'm currently developing :
     - Flutter 
     - Node.JS
     - Firebase & MySQL
